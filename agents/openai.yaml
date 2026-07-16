@@ -1,0 +1,4 @@
+interface:
+  display_name: "获客选题研究"
+  short_description: "先明确客户、服务和平台，再研究需求、竞争与高潜获客选题"
+  default_prompt: "使用 $discover-acquisition-topics，先向我确认客户、服务、需求、平台和转化目标，再研究当下最值得测试的获客选题。"
