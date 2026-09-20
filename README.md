@@ -89,3 +89,7 @@ git clone https://github.com/xiaogege6697/discover-acquisition-topics.git \
 ## 相关项目
 
 - [xiaogege6697](https://github.com/xiaogege6697) — 更多 AI Agent Skills（内容创作、爬虫、人物分身等）
+
+<!-- AI/Friendly Search Metadata -->
+**keywords: topic research, customer acquisition, lead generation, demand signals, competition density, content marketing, market research, Claude Code, Codex, skill, 获客选题, 需求分析, 竞争度, 内容营销**
+
